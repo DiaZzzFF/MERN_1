@@ -1,0 +1,23 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.card__login-btn {
+  margin-right: 10px;
+}
+
+.auth__input {
+  border-bottom: 1px solid white !important;
+  box-shadow: 0 1px 0 0 white !important;
+}
+
+.auth__input:focus {
+  border-bottom: 1px solid yellow !important;
+  box-shadow: 0 1px 0 0 yellow !important;
+}
+
+.auth__label {
+  color: white !important;
+}
+
+.navbar__wrapper {
+  padding: 0 2rem;
+}
